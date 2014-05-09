@@ -1,0 +1,9 @@
+{
+  "web": {
+    "image": "spring",
+    "path": ".",
+    "ports": [
+      8080
+    ]
+  }
+}
